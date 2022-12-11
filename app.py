@@ -24,6 +24,7 @@ from layout import layout
 
 # create a dash app
 app = dash.Dash(__name__)
+server = app.server
 
 # create a dash app layout
 app.layout = layout
