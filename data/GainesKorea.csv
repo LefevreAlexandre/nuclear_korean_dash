@@ -1,0 +1,431 @@
+"Nomenclature","ReporterISO3","ProductCode","ReporterName","PartnerISO3","PartnerName","Year","TradeFlowName","TradeFlowCode","TradeValue in 1000 USD"
+"S4","KOR","28784","Korea, Rep.","AUS","Australia",2015,"Import",5,5558.779
+"S4","KOR","28784","Korea, Rep.","AUS","Australia",2016,"Import",5,6198.225
+"S4","KOR","28784","Korea, Rep.","AUS","Australia",2017,"Import",5,4552.681
+"S4","KOR","28784","Korea, Rep.","AUS","Australia",2018,"Import",5,6116.962
+"S4","KOR","28784","Korea, Rep.","AUS","Australia",2019,"Import",5,1700.537
+"S4","KOR","28784","Korea, Rep.","AUS","Australia",2020,"Import",5,2960.907
+"S4","KOR","28784","Korea, Rep.","AUS","Australia",2021,"Import",5,4050.316
+"S4","KOR","28784","Korea, Rep.","AUT","Austria",2015,"Import",5,17.28
+"S4","KOR","28784","Korea, Rep.","AUT","Austria",2016,"Import",5,34.56
+"S4","KOR","28784","Korea, Rep.","CHN","China",2015,"Import",5,37.802
+"S4","KOR","28784","Korea, Rep.","CHN","China",2016,"Import",5,25.701
+"S4","KOR","28784","Korea, Rep.","CHN","China",2017,"Import",5,1.306
+"S4","KOR","28784","Korea, Rep.","CHN","China",2018,"Import",5,1.712
+"S4","KOR","28784","Korea, Rep.","CHN","China",2019,"Import",5,2.879
+"S4","KOR","28784","Korea, Rep.","CHN","China",2020,"Import",5,16.309
+"S4","KOR","28784","Korea, Rep.","CHN","China",2021,"Import",5,31.339
+"S4","KOR","28784","Korea, Rep.","GBR","United Kingdom",2015,"Import",5,58.108
+"S4","KOR","28784","Korea, Rep.","GBR","United Kingdom",2016,"Import",5,45.423
+"S4","KOR","28784","Korea, Rep.","GBR","United Kingdom",2017,"Import",5,42.976
+"S4","KOR","28784","Korea, Rep.","GBR","United Kingdom",2018,"Import",5,33.562
+"S4","KOR","28784","Korea, Rep.","GBR","United Kingdom",2019,"Import",5,31.368
+"S4","KOR","28784","Korea, Rep.","GBR","United Kingdom",2020,"Import",5,29.668
+"S4","KOR","28784","Korea, Rep.","GBR","United Kingdom",2021,"Import",5,32.808
+"S4","KOR","28784","Korea, Rep.","HKG","Hong Kong, China",2021,"Import",5,0.7
+"S4","KOR","28784","Korea, Rep.","IDN","Indonesia",2016,"Import",5,90.629
+"S4","KOR","28784","Korea, Rep.","IDN","Indonesia",2017,"Import",5,9.152
+"S4","KOR","28784","Korea, Rep.","IDN","Indonesia",2018,"Import",5,529.336
+"S4","KOR","28784","Korea, Rep.","IDN","Indonesia",2019,"Import",5,1327.982
+"S4","KOR","28784","Korea, Rep.","IDN","Indonesia",2020,"Import",5,612.286
+"S4","KOR","28784","Korea, Rep.","IDN","Indonesia",2021,"Import",5,226.43
+"S4","KOR","28784","Korea, Rep.","IND","India",2016,"Import",5,0.312
+"S4","KOR","28784","Korea, Rep.","IND","India",2018,"Import",5,0.054
+"S4","KOR","28784","Korea, Rep.","IND","India",2019,"Import",5,0.107
+"S4","KOR","28784","Korea, Rep.","JPN","Japan",2015,"Import",5,0.648
+"S4","KOR","28784","Korea, Rep.","JPN","Japan",2016,"Import",5,0.733
+"S4","KOR","28784","Korea, Rep.","JPN","Japan",2017,"Import",5,1.816
+"S4","KOR","28784","Korea, Rep.","JPN","Japan",2018,"Import",5,6.357
+"S4","KOR","28784","Korea, Rep.","JPN","Japan",2019,"Import",5,3.865
+"S4","KOR","28784","Korea, Rep.","LKA","Sri Lanka",2018,"Import",5,0.169
+"S4","KOR","28784","Korea, Rep.","MYS","Malaysia",2016,"Import",5,0.161
+"S4","KOR","28784","Korea, Rep.","MYS","Malaysia",2020,"Import",5,0.01
+"S4","KOR","28784","Korea, Rep.","NGA","Nigeria",2016,"Import",5,0.022
+"S4","KOR","28784","Korea, Rep.","OAS","Other Asia, nes",2015,"Import",5,195.014
+"S4","KOR","28784","Korea, Rep.","OAS","Other Asia, nes",2016,"Import",5,48.305
+"S4","KOR","28784","Korea, Rep.","OAS","Other Asia, nes",2018,"Import",5,0.046
+"S4","KOR","28784","Korea, Rep.","OAS","Other Asia, nes",2019,"Import",5,0.964
+"S4","KOR","28784","Korea, Rep.","SEN","Senegal",2017,"Import",5,20.585
+"S4","KOR","28784","Korea, Rep.","SEN","Senegal",2019,"Import",5,29.019
+"S4","KOR","28784","Korea, Rep.","THA","Thailand",2021,"Import",5,394.447
+"S4","KOR","28784","Korea, Rep.","UKR","Ukraine",2015,"Import",5,220.725
+"S4","KOR","28784","Korea, Rep.","UKR","Ukraine",2016,"Import",5,41.406
+"S4","KOR","28784","Korea, Rep.","UKR","Ukraine",2017,"Import",5,62.185
+"S4","KOR","28784","Korea, Rep.","UKR","Ukraine",2018,"Import",5,28.673
+"S4","KOR","28784","Korea, Rep.","UKR","Ukraine",2020,"Import",5,0.051
+"S4","KOR","28784","Korea, Rep.","UKR","Ukraine",2021,"Import",5,110.64
+"S4","KOR","28784","Korea, Rep.","USA","United States",2015,"Import",5,41.703
+"S4","KOR","28784","Korea, Rep.","USA","United States",2016,"Import",5,86.479
+"S4","KOR","28784","Korea, Rep.","USA","United States",2017,"Import",5,83.055
+"S4","KOR","28784","Korea, Rep.","USA","United States",2018,"Import",5,4.253
+"S4","KOR","28784","Korea, Rep.","USA","United States",2019,"Import",5,32.701
+"S4","KOR","28784","Korea, Rep.","USA","United States",2020,"Import",5,2.626
+"S4","KOR","28784","Korea, Rep.","USA","United States",2021,"Import",5,23.035
+"S4","KOR","28784","Korea, Rep.","VNM","Vietnam",2015,"Import",5,77.419
+"S4","KOR","28784","Korea, Rep.","VNM","Vietnam",2016,"Import",5,254.686
+"S4","KOR","28784","Korea, Rep.","VNM","Vietnam",2017,"Import",5,0.049
+"S4","KOR","28784","Korea, Rep.","VNM","Vietnam",2018,"Import",5,1130.407
+"S4","KOR","28784","Korea, Rep.","VNM","Vietnam",2020,"Import",5,0.053
+"S4","KOR","28784","Korea, Rep.","VNM","Vietnam",2021,"Import",5,0.061
+"S4","KOR","28784","Korea, Rep.","ZAF","South Africa",2015,"Import",5,2204.734
+"S4","KOR","28784","Korea, Rep.","ZAF","South Africa",2016,"Import",5,3212.305
+"S4","KOR","28784","Korea, Rep.","ZAF","South Africa",2017,"Import",5,6881.261
+"S4","KOR","28784","Korea, Rep.","ZAF","South Africa",2018,"Import",5,10149.309
+"S4","KOR","28784","Korea, Rep.","ZAF","South Africa",2019,"Import",5,7760.103
+"S4","KOR","28784","Korea, Rep.","ZAF","South Africa",2020,"Import",5,3922.352
+"S4","KOR","28784","Korea, Rep.","ZAF","South Africa",2021,"Import",5,4412.448
+"S4","KOR","28785","Korea, Rep.","BDI","Burundi",2017,"Import",5,44.23
+"S4","KOR","28785","Korea, Rep.","BDI","Burundi",2019,"Import",5,0.018
+"S4","KOR","28785","Korea, Rep.","BOL","Bolivia",2018,"Import",5,8.7
+"S4","KOR","28785","Korea, Rep.","BRB","Barbados",2019,"Import",5,93.946
+"S4","KOR","28785","Korea, Rep.","CHN","China",2015,"Import",5,15.192
+"S4","KOR","28785","Korea, Rep.","CHN","China",2016,"Import",5,0.755
+"S4","KOR","28785","Korea, Rep.","CHN","China",2017,"Import",5,43.979
+"S4","KOR","28785","Korea, Rep.","CHN","China",2019,"Import",5,3.692
+"S4","KOR","28785","Korea, Rep.","CHN","China",2020,"Import",5,6.074
+"S4","KOR","28785","Korea, Rep.","CHN","China",2021,"Import",5,27.262
+"S4","KOR","28785","Korea, Rep.","COL","Colombia",2019,"Import",5,0.049
+"S4","KOR","28785","Korea, Rep.","DNK","Denmark",2019,"Import",5,0.293
+"S4","KOR","28785","Korea, Rep.","ESP","Spain",2017,"Import",5,0.142
+"S4","KOR","28785","Korea, Rep.","IND","India",2020,"Import",5,0.016
+"S4","KOR","28785","Korea, Rep.","JPN","Japan",2016,"Import",5,4.555
+"S4","KOR","28785","Korea, Rep.","JPN","Japan",2017,"Import",5,16.979
+"S4","KOR","28785","Korea, Rep.","JPN","Japan",2018,"Import",5,3.678
+"S4","KOR","28785","Korea, Rep.","JPN","Japan",2019,"Import",5,3.907
+"S4","KOR","28785","Korea, Rep.","JPN","Japan",2020,"Import",5,2.189
+"S4","KOR","28785","Korea, Rep.","KEN","Kenya",2021,"Import",5,0.13
+"S4","KOR","28785","Korea, Rep.","KHM","Cambodia",2021,"Import",5,0.015
+"S4","KOR","28785","Korea, Rep.","KWT","Kuwait",2018,"Import",5,2897.602
+"S4","KOR","28785","Korea, Rep.","KWT","Kuwait",2019,"Import",5,200.843
+"S4","KOR","28785","Korea, Rep.","LBR","Liberia",2020,"Import",5,0.296
+"S4","KOR","28785","Korea, Rep.","MEX","Mexico",2016,"Import",5,0.014
+"S4","KOR","28785","Korea, Rep.","MEX","Mexico",2018,"Import",5,1.102
+"S4","KOR","28785","Korea, Rep.","NLD","Netherlands",2016,"Import",5,1.109
+"S4","KOR","28785","Korea, Rep.","NLD","Netherlands",2017,"Import",5,2.203
+"S4","KOR","28785","Korea, Rep.","NLD","Netherlands",2018,"Import",5,1.149
+"S4","KOR","28785","Korea, Rep.","NLD","Netherlands",2020,"Import",5,242.582
+"S4","KOR","28785","Korea, Rep.","NZL","New Zealand",2020,"Import",5,0.709
+"S4","KOR","28785","Korea, Rep.","RWA","Rwanda",2017,"Import",5,0.025
+"S4","KOR","28785","Korea, Rep.","SGP","Singapore",2019,"Import",5,0.057
+"S4","KOR","28785","Korea, Rep.","SVN","Slovenia",2021,"Import",5,0.011
+"S4","KOR","28785","Korea, Rep.","USA","United States",2016,"Import",5,0.024
+"S4","KOR","28785","Korea, Rep.","USA","United States",2017,"Import",5,1.737
+"S4","KOR","28785","Korea, Rep.","USA","United States",2018,"Import",5,2.5
+"S4","KOR","28785","Korea, Rep.","USA","United States",2019,"Import",5,3.395
+"S4","KOR","28785","Korea, Rep.","USA","United States",2020,"Import",5,0.274
+"S4","KOR","28785","Korea, Rep.","USA","United States",2021,"Import",5,10.827
+"S4","KOR","28785","Korea, Rep.","ZAR","Congo, Dem. Rep.",2015,"Import",5,0.014
+"S4","KOR","28785","Korea, Rep.","ZAR","Congo, Dem. Rep.",2018,"Import",5,0.052
+"S4","KOR","68913","Korea, Rep.","BDI","Burundi",2015,"Import",5,6.966
+"S4","KOR","68913","Korea, Rep.","BEL","Belgium",2017,"Import",5,0.225
+"S4","KOR","68913","Korea, Rep.","BGD","Bangladesh",2020,"Import",5,4.661
+"S4","KOR","68913","Korea, Rep.","CAN","Canada",2018,"Import",5,70.721
+"S4","KOR","68913","Korea, Rep.","CAN","Canada",2021,"Import",5,5.75
+"S4","KOR","68913","Korea, Rep.","CHN","China",2015,"Import",5,484.887
+"S4","KOR","68913","Korea, Rep.","CHN","China",2016,"Import",5,868.763
+"S4","KOR","68913","Korea, Rep.","CHN","China",2017,"Import",5,501.226
+"S4","KOR","68913","Korea, Rep.","CHN","China",2018,"Import",5,63.145
+"S4","KOR","68913","Korea, Rep.","CHN","China",2019,"Import",5,23.299
+"S4","KOR","68913","Korea, Rep.","CHN","China",2020,"Import",5,60.396
+"S4","KOR","68913","Korea, Rep.","CHN","China",2021,"Import",5,59.979
+"S4","KOR","68913","Korea, Rep.","DEU","Germany",2015,"Import",5,20.41
+"S4","KOR","68913","Korea, Rep.","DEU","Germany",2016,"Import",5,2.137
+"S4","KOR","68913","Korea, Rep.","DEU","Germany",2017,"Import",5,1.919
+"S4","KOR","68913","Korea, Rep.","DEU","Germany",2018,"Import",5,0.011
+"S4","KOR","68913","Korea, Rep.","DEU","Germany",2019,"Import",5,14.349
+"S4","KOR","68913","Korea, Rep.","DNK","Denmark",2018,"Import",5,0.222
+"S4","KOR","68913","Korea, Rep.","FRA","France",2019,"Import",5,2.241
+"S4","KOR","68913","Korea, Rep.","GBR","United Kingdom",2016,"Import",5,0.238
+"S4","KOR","68913","Korea, Rep.","GBR","United Kingdom",2017,"Import",5,18.034
+"S4","KOR","68913","Korea, Rep.","GBR","United Kingdom",2018,"Import",5,0.084
+"S4","KOR","68913","Korea, Rep.","GBR","United Kingdom",2019,"Import",5,0.077
+"S4","KOR","68913","Korea, Rep.","HKG","Hong Kong, China",2015,"Import",5,9.546
+"S4","KOR","68913","Korea, Rep.","HKG","Hong Kong, China",2016,"Import",5,72.319
+"S4","KOR","68913","Korea, Rep.","HKG","Hong Kong, China",2017,"Import",5,0.354
+"S4","KOR","68913","Korea, Rep.","HKG","Hong Kong, China",2018,"Import",5,159.615
+"S4","KOR","68913","Korea, Rep.","HKG","Hong Kong, China",2019,"Import",5,91.4
+"S4","KOR","68913","Korea, Rep.","JPN","Japan",2015,"Import",5,29.615
+"S4","KOR","68913","Korea, Rep.","JPN","Japan",2016,"Import",5,0.323
+"S4","KOR","68913","Korea, Rep.","JPN","Japan",2017,"Import",5,0.391
+"S4","KOR","68913","Korea, Rep.","JPN","Japan",2018,"Import",5,1.15
+"S4","KOR","68913","Korea, Rep.","JPN","Japan",2019,"Import",5,9.185
+"S4","KOR","68913","Korea, Rep.","JPN","Japan",2020,"Import",5,0.571
+"S4","KOR","68913","Korea, Rep.","JPN","Japan",2021,"Import",5,0.042
+"S4","KOR","68913","Korea, Rep.","KAZ","Kazakhstan",2016,"Import",5,0.02
+"S4","KOR","68913","Korea, Rep.","PHL","Philippines",2015,"Import",5,0.19
+"S4","KOR","68913","Korea, Rep.","PHL","Philippines",2018,"Import",5,1
+"S4","KOR","68913","Korea, Rep.","PHL","Philippines",2019,"Import",5,201.107
+"S4","KOR","68913","Korea, Rep.","PHL","Philippines",2020,"Import",5,105.38
+"S4","KOR","68913","Korea, Rep.","PHL","Philippines",2021,"Import",5,91.615
+"S4","KOR","68913","Korea, Rep.","RUS","Russian Federation",2018,"Import",5,0.04
+"S4","KOR","68913","Korea, Rep.","RUS","Russian Federation",2019,"Import",5,0.038
+"S4","KOR","68913","Korea, Rep.","RUS","Russian Federation",2020,"Import",5,87.5
+"S4","KOR","68913","Korea, Rep.","RUS","Russian Federation",2021,"Import",5,208
+"S4","KOR","68913","Korea, Rep.","RWA","Rwanda",2016,"Import",5,49.004
+"S4","KOR","68913","Korea, Rep.","SGP","Singapore",2015,"Import",5,0.266
+"S4","KOR","68913","Korea, Rep.","SGP","Singapore",2018,"Import",5,2.405
+"S4","KOR","68913","Korea, Rep.","SGP","Singapore",2019,"Import",5,5.901
+"S4","KOR","68913","Korea, Rep.","USA","United States",2015,"Import",5,130.87
+"S4","KOR","68913","Korea, Rep.","USA","United States",2016,"Import",5,3.595
+"S4","KOR","68913","Korea, Rep.","USA","United States",2017,"Import",5,17.458
+"S4","KOR","68913","Korea, Rep.","USA","United States",2018,"Import",5,4.467
+"S4","KOR","68913","Korea, Rep.","USA","United States",2019,"Import",5,46.924
+"S4","KOR","68913","Korea, Rep.","USA","United States",2020,"Import",5,8.486
+"S4","KOR","68913","Korea, Rep.","USA","United States",2021,"Import",5,15.248
+"S4","KOR","68984","Korea, Rep.","CAN","Canada",2019,"Import",5,56.519
+"S4","KOR","68984","Korea, Rep.","CHN","China",2015,"Import",5,788.677
+"S4","KOR","68984","Korea, Rep.","CHN","China",2016,"Import",5,231.103
+"S4","KOR","68984","Korea, Rep.","CHN","China",2017,"Import",5,158.205
+"S4","KOR","68984","Korea, Rep.","CHN","China",2018,"Import",5,37.759
+"S4","KOR","68984","Korea, Rep.","CHN","China",2019,"Import",5,58.953
+"S4","KOR","68984","Korea, Rep.","CHN","China",2020,"Import",5,16.082
+"S4","KOR","68984","Korea, Rep.","CHN","China",2021,"Import",5,159.212
+"S4","KOR","68984","Korea, Rep.","DEU","Germany",2015,"Import",5,2.949
+"S4","KOR","68984","Korea, Rep.","DEU","Germany",2016,"Import",5,1.267
+"S4","KOR","68984","Korea, Rep.","DEU","Germany",2017,"Import",5,16.025
+"S4","KOR","68984","Korea, Rep.","DEU","Germany",2018,"Import",5,61.097
+"S4","KOR","68984","Korea, Rep.","DEU","Germany",2019,"Import",5,2.861
+"S4","KOR","68984","Korea, Rep.","DEU","Germany",2020,"Import",5,8.607
+"S4","KOR","68984","Korea, Rep.","DEU","Germany",2021,"Import",5,10.484
+"S4","KOR","68984","Korea, Rep.","FIN","Finland",2016,"Import",5,0.312
+"S4","KOR","68984","Korea, Rep.","FIN","Finland",2020,"Import",5,1.546
+"S4","KOR","68984","Korea, Rep.","FRA","France",2015,"Import",5,114.445
+"S4","KOR","68984","Korea, Rep.","FRA","France",2016,"Import",5,99.566
+"S4","KOR","68984","Korea, Rep.","FRA","France",2017,"Import",5,136.311
+"S4","KOR","68984","Korea, Rep.","FRA","France",2018,"Import",5,500.225
+"S4","KOR","68984","Korea, Rep.","FRA","France",2019,"Import",5,101.643
+"S4","KOR","68984","Korea, Rep.","FRA","France",2020,"Import",5,206.372
+"S4","KOR","68984","Korea, Rep.","GBR","United Kingdom",2017,"Import",5,0.158
+"S4","KOR","68984","Korea, Rep.","GBR","United Kingdom",2019,"Import",5,1.863
+"S4","KOR","68984","Korea, Rep.","HKG","Hong Kong, China",2015,"Import",5,9.564
+"S4","KOR","68984","Korea, Rep.","HKG","Hong Kong, China",2017,"Import",5,26.715
+"S4","KOR","68984","Korea, Rep.","HKG","Hong Kong, China",2018,"Import",5,1.07
+"S4","KOR","68984","Korea, Rep.","HKG","Hong Kong, China",2021,"Import",5,2.073
+"S4","KOR","68984","Korea, Rep.","IDN","Indonesia",2017,"Import",5,0.006
+"S4","KOR","68984","Korea, Rep.","IDN","Indonesia",2018,"Import",5,0.024
+"S4","KOR","68984","Korea, Rep.","IND","India",2017,"Import",5,3.39
+"S4","KOR","68984","Korea, Rep.","IND","India",2019,"Import",5,3.121
+"S4","KOR","68984","Korea, Rep.","JPN","Japan",2015,"Import",5,133.087
+"S4","KOR","68984","Korea, Rep.","JPN","Japan",2016,"Import",5,28.508
+"S4","KOR","68984","Korea, Rep.","JPN","Japan",2017,"Import",5,94.364
+"S4","KOR","68984","Korea, Rep.","JPN","Japan",2018,"Import",5,124.168
+"S4","KOR","68984","Korea, Rep.","JPN","Japan",2019,"Import",5,171.386
+"S4","KOR","68984","Korea, Rep.","JPN","Japan",2020,"Import",5,135.828
+"S4","KOR","68984","Korea, Rep.","JPN","Japan",2021,"Import",5,76.429
+"S4","KOR","68984","Korea, Rep.","RUS","Russian Federation",2019,"Import",5,1.888
+"S4","KOR","68984","Korea, Rep.","RUS","Russian Federation",2020,"Import",5,0.778
+"S4","KOR","68984","Korea, Rep.","RUS","Russian Federation",2021,"Import",5,0.393
+"S4","KOR","68984","Korea, Rep.","SGP","Singapore",2015,"Import",5,0.079
+"S4","KOR","68984","Korea, Rep.","UKR","Ukraine",2017,"Import",5,18.3
+"S4","KOR","68984","Korea, Rep.","UKR","Ukraine",2018,"Import",5,184.8
+"S4","KOR","68984","Korea, Rep.","USA","United States",2015,"Import",5,71.185
+"S4","KOR","68984","Korea, Rep.","USA","United States",2016,"Import",5,95.32
+"S4","KOR","68984","Korea, Rep.","USA","United States",2017,"Import",5,256.194
+"S4","KOR","68984","Korea, Rep.","USA","United States",2018,"Import",5,54.148
+"S4","KOR","68984","Korea, Rep.","USA","United States",2019,"Import",5,146.352
+"S4","KOR","68984","Korea, Rep.","USA","United States",2020,"Import",5,21.732
+"S4","KOR","68984","Korea, Rep.","USA","United States",2021,"Import",5,131.059
+"S4","KOR","68984","Korea, Rep.","VNM","Vietnam",2016,"Import",5,0.026
+"S4","KOR","68984","Korea, Rep.","VNM","Vietnam",2017,"Import",5,0.018
+"S4","KOR","69987","Korea, Rep.","ARE","United Arab Emirates",2019,"Import",5,0.116
+"S4","KOR","69987","Korea, Rep.","AUT","Austria",2015,"Import",5,6.78
+"S4","KOR","69987","Korea, Rep.","BEL","Belgium",2018,"Import",5,25.9
+"S4","KOR","69987","Korea, Rep.","BEL","Belgium",2020,"Import",5,0.169
+"S4","KOR","69987","Korea, Rep.","CAN","Canada",2015,"Import",5,9545.292
+"S4","KOR","69987","Korea, Rep.","CAN","Canada",2016,"Import",5,3422.553
+"S4","KOR","69987","Korea, Rep.","CAN","Canada",2017,"Import",5,4.846
+"S4","KOR","69987","Korea, Rep.","CAN","Canada",2018,"Import",5,4.86
+"S4","KOR","69987","Korea, Rep.","CAN","Canada",2019,"Import",5,0.75
+"S4","KOR","69987","Korea, Rep.","CAN","Canada",2021,"Import",5,0.681
+"S4","KOR","69987","Korea, Rep.","CHE","Switzerland",2015,"Import",5,1.961
+"S4","KOR","69987","Korea, Rep.","CHE","Switzerland",2016,"Import",5,0.874
+"S4","KOR","69987","Korea, Rep.","CHE","Switzerland",2017,"Import",5,0.459
+"S4","KOR","69987","Korea, Rep.","CHE","Switzerland",2018,"Import",5,0.327
+"S4","KOR","69987","Korea, Rep.","CHE","Switzerland",2019,"Import",5,0.747
+"S4","KOR","69987","Korea, Rep.","CHE","Switzerland",2020,"Import",5,4.637
+"S4","KOR","69987","Korea, Rep.","CHN","China",2015,"Import",5,395.475
+"S4","KOR","69987","Korea, Rep.","CHN","China",2016,"Import",5,560.665
+"S4","KOR","69987","Korea, Rep.","CHN","China",2017,"Import",5,574.139
+"S4","KOR","69987","Korea, Rep.","CHN","China",2018,"Import",5,399.308
+"S4","KOR","69987","Korea, Rep.","CHN","China",2019,"Import",5,369.23
+"S4","KOR","69987","Korea, Rep.","CHN","China",2020,"Import",5,219.201
+"S4","KOR","69987","Korea, Rep.","CHN","China",2021,"Import",5,249.299
+"S4","KOR","69987","Korea, Rep.","DEU","Germany",2015,"Import",5,25.742
+"S4","KOR","69987","Korea, Rep.","DEU","Germany",2016,"Import",5,1018.911
+"S4","KOR","69987","Korea, Rep.","DEU","Germany",2017,"Import",5,246.412
+"S4","KOR","69987","Korea, Rep.","DEU","Germany",2018,"Import",5,115.013
+"S4","KOR","69987","Korea, Rep.","DEU","Germany",2019,"Import",5,367.733
+"S4","KOR","69987","Korea, Rep.","DEU","Germany",2020,"Import",5,33.068
+"S4","KOR","69987","Korea, Rep.","DEU","Germany",2021,"Import",5,60.671
+"S4","KOR","69987","Korea, Rep.","FRA","France",2015,"Import",5,249.724
+"S4","KOR","69987","Korea, Rep.","FRA","France",2016,"Import",5,1320.151
+"S4","KOR","69987","Korea, Rep.","FRA","France",2017,"Import",5,6494.535
+"S4","KOR","69987","Korea, Rep.","FRA","France",2018,"Import",5,8822.104
+"S4","KOR","69987","Korea, Rep.","FRA","France",2019,"Import",5,4146.132
+"S4","KOR","69987","Korea, Rep.","FRA","France",2020,"Import",5,4495.501
+"S4","KOR","69987","Korea, Rep.","FRA","France",2021,"Import",5,11299.682
+"S4","KOR","69987","Korea, Rep.","GBR","United Kingdom",2015,"Import",5,4.548
+"S4","KOR","69987","Korea, Rep.","GBR","United Kingdom",2016,"Import",5,8.137
+"S4","KOR","69987","Korea, Rep.","GBR","United Kingdom",2017,"Import",5,2.636
+"S4","KOR","69987","Korea, Rep.","GBR","United Kingdom",2018,"Import",5,3.901
+"S4","KOR","69987","Korea, Rep.","GBR","United Kingdom",2019,"Import",5,1.409
+"S4","KOR","69987","Korea, Rep.","GBR","United Kingdom",2020,"Import",5,5.114
+"S4","KOR","69987","Korea, Rep.","GBR","United Kingdom",2021,"Import",5,3.472
+"S4","KOR","69987","Korea, Rep.","HKG","Hong Kong, China",2015,"Import",5,24.307
+"S4","KOR","69987","Korea, Rep.","HKG","Hong Kong, China",2016,"Import",5,45.858
+"S4","KOR","69987","Korea, Rep.","HKG","Hong Kong, China",2017,"Import",5,183.661
+"S4","KOR","69987","Korea, Rep.","HKG","Hong Kong, China",2018,"Import",5,173.112
+"S4","KOR","69987","Korea, Rep.","HKG","Hong Kong, China",2019,"Import",5,249.588
+"S4","KOR","69987","Korea, Rep.","HKG","Hong Kong, China",2020,"Import",5,335.759
+"S4","KOR","69987","Korea, Rep.","HKG","Hong Kong, China",2021,"Import",5,308.176
+"S4","KOR","69987","Korea, Rep.","HUN","Hungary",2015,"Import",5,10.334
+"S4","KOR","69987","Korea, Rep.","IND","India",2019,"Import",5,3.679
+"S4","KOR","69987","Korea, Rep.","ITA","Italy",2020,"Import",5,0.229
+"S4","KOR","69987","Korea, Rep.","ITA","Italy",2021,"Import",5,0.426
+"S4","KOR","69987","Korea, Rep.","JPN","Japan",2015,"Import",5,57.69
+"S4","KOR","69987","Korea, Rep.","JPN","Japan",2016,"Import",5,82.829
+"S4","KOR","69987","Korea, Rep.","JPN","Japan",2017,"Import",5,30.298
+"S4","KOR","69987","Korea, Rep.","JPN","Japan",2018,"Import",5,57.493
+"S4","KOR","69987","Korea, Rep.","JPN","Japan",2019,"Import",5,128.647
+"S4","KOR","69987","Korea, Rep.","JPN","Japan",2020,"Import",5,17.137
+"S4","KOR","69987","Korea, Rep.","JPN","Japan",2021,"Import",5,30.328
+"S4","KOR","69987","Korea, Rep.","LTU","Lithuania",2018,"Import",5,0.569
+"S4","KOR","69987","Korea, Rep.","LTU","Lithuania",2020,"Import",5,0.223
+"S4","KOR","69987","Korea, Rep.","MEX","Mexico",2016,"Import",5,3.657
+"S4","KOR","69987","Korea, Rep.","MEX","Mexico",2017,"Import",5,11.117
+"S4","KOR","69987","Korea, Rep.","MEX","Mexico",2018,"Import",5,11.51
+"S4","KOR","69987","Korea, Rep.","MNG","Mongolia",2015,"Import",5,0.337
+"S4","KOR","69987","Korea, Rep.","MNG","Mongolia",2016,"Import",5,0.171
+"S4","KOR","69987","Korea, Rep.","MYS","Malaysia",2016,"Import",5,0.57
+"S4","KOR","69987","Korea, Rep.","MYS","Malaysia",2017,"Import",5,0.235
+"S4","KOR","69987","Korea, Rep.","NLD","Netherlands",2018,"Import",5,1.112
+"S4","KOR","69987","Korea, Rep.","NLD","Netherlands",2020,"Import",5,2.238
+"S4","KOR","69987","Korea, Rep.","OAS","Other Asia, nes",2016,"Import",5,0.887
+"S4","KOR","69987","Korea, Rep.","PAK","Pakistan",2017,"Import",5,0.455
+"S4","KOR","69987","Korea, Rep.","RUS","Russian Federation",2017,"Import",5,354.5
+"S4","KOR","69987","Korea, Rep.","RUS","Russian Federation",2018,"Import",5,58.077
+"S4","KOR","69987","Korea, Rep.","RUS","Russian Federation",2019,"Import",5,197.365
+"S4","KOR","69987","Korea, Rep.","RUS","Russian Federation",2020,"Import",5,1391.648
+"S4","KOR","69987","Korea, Rep.","RUS","Russian Federation",2021,"Import",5,7442.66
+"S4","KOR","69987","Korea, Rep.","SGP","Singapore",2017,"Import",5,7.897
+"S4","KOR","69987","Korea, Rep.","SGP","Singapore",2018,"Import",5,11.053
+"S4","KOR","69987","Korea, Rep.","SGP","Singapore",2021,"Import",5,1.293
+"S4","KOR","69987","Korea, Rep.","SWE","Sweden",2017,"Import",5,1686.923
+"S4","KOR","69987","Korea, Rep.","SWE","Sweden",2018,"Import",5,700.661
+"S4","KOR","69987","Korea, Rep.","SWE","Sweden",2019,"Import",5,43.367
+"S4","KOR","69987","Korea, Rep.","SWE","Sweden",2020,"Import",5,2.349
+"S4","KOR","69987","Korea, Rep.","SWE","Sweden",2021,"Import",5,285.05
+"S4","KOR","69987","Korea, Rep.","USA","United States",2015,"Import",5,27264.437
+"S4","KOR","69987","Korea, Rep.","USA","United States",2016,"Import",5,28006.039
+"S4","KOR","69987","Korea, Rep.","USA","United States",2017,"Import",5,32618.396
+"S4","KOR","69987","Korea, Rep.","USA","United States",2018,"Import",5,24924.115
+"S4","KOR","69987","Korea, Rep.","USA","United States",2019,"Import",5,18418.539
+"S4","KOR","69987","Korea, Rep.","USA","United States",2020,"Import",5,19774.67
+"S4","KOR","69987","Korea, Rep.","USA","United States",2021,"Import",5,37308.664
+"S4","KOR","69987","Korea, Rep.","ZAF","South Africa",2019,"Import",5,0.035
+"S4","KOR","69993","Korea, Rep.","AND","Andorra",2020,"Import",5,0.37
+"S4","KOR","69993","Korea, Rep.","ARE","United Arab Emirates",2019,"Import",5,0.725
+"S4","KOR","69993","Korea, Rep.","AUT","Austria",2015,"Import",5,165.763
+"S4","KOR","69993","Korea, Rep.","AUT","Austria",2016,"Import",5,113.837
+"S4","KOR","69993","Korea, Rep.","AUT","Austria",2017,"Import",5,209.017
+"S4","KOR","69993","Korea, Rep.","AUT","Austria",2018,"Import",5,197.275
+"S4","KOR","69993","Korea, Rep.","AUT","Austria",2019,"Import",5,97.145
+"S4","KOR","69993","Korea, Rep.","AUT","Austria",2020,"Import",5,332.448
+"S4","KOR","69993","Korea, Rep.","AUT","Austria",2021,"Import",5,262.482
+"S4","KOR","69993","Korea, Rep.","BEL","Belgium",2021,"Import",5,4.596
+"S4","KOR","69993","Korea, Rep.","CAN","Canada",2017,"Import",5,1.7
+"S4","KOR","69993","Korea, Rep.","CHE","Switzerland",2015,"Import",5,103.138
+"S4","KOR","69993","Korea, Rep.","CHE","Switzerland",2016,"Import",5,80.866
+"S4","KOR","69993","Korea, Rep.","CHE","Switzerland",2017,"Import",5,94.171
+"S4","KOR","69993","Korea, Rep.","CHE","Switzerland",2018,"Import",5,50.927
+"S4","KOR","69993","Korea, Rep.","CHE","Switzerland",2019,"Import",5,23.021
+"S4","KOR","69993","Korea, Rep.","CHE","Switzerland",2020,"Import",5,11.956
+"S4","KOR","69993","Korea, Rep.","CHE","Switzerland",2021,"Import",5,11.2
+"S4","KOR","69993","Korea, Rep.","CHN","China",2015,"Import",5,3011.856
+"S4","KOR","69993","Korea, Rep.","CHN","China",2016,"Import",5,7781.297
+"S4","KOR","69993","Korea, Rep.","CHN","China",2017,"Import",5,9647.584
+"S4","KOR","69993","Korea, Rep.","CHN","China",2018,"Import",5,9612.827
+"S4","KOR","69993","Korea, Rep.","CHN","China",2019,"Import",5,14368.931
+"S4","KOR","69993","Korea, Rep.","CHN","China",2020,"Import",5,13688.378
+"S4","KOR","69993","Korea, Rep.","CHN","China",2021,"Import",5,12967.587
+"S4","KOR","69993","Korea, Rep.","CZE","Czech Republic",2016,"Import",5,3.993
+"S4","KOR","69993","Korea, Rep.","DEU","Germany",2015,"Import",5,25.79
+"S4","KOR","69993","Korea, Rep.","DEU","Germany",2016,"Import",5,13.731
+"S4","KOR","69993","Korea, Rep.","DEU","Germany",2017,"Import",5,13.545
+"S4","KOR","69993","Korea, Rep.","DEU","Germany",2018,"Import",5,19.704
+"S4","KOR","69993","Korea, Rep.","DEU","Germany",2019,"Import",5,50.263
+"S4","KOR","69993","Korea, Rep.","DEU","Germany",2020,"Import",5,33.923
+"S4","KOR","69993","Korea, Rep.","DEU","Germany",2021,"Import",5,26.678
+"S4","KOR","69993","Korea, Rep.","DNK","Denmark",2015,"Import",5,18.21
+"S4","KOR","69993","Korea, Rep.","DNK","Denmark",2016,"Import",5,14.167
+"S4","KOR","69993","Korea, Rep.","DNK","Denmark",2017,"Import",5,17.796
+"S4","KOR","69993","Korea, Rep.","DNK","Denmark",2018,"Import",5,12.78
+"S4","KOR","69993","Korea, Rep.","DNK","Denmark",2019,"Import",5,16.328
+"S4","KOR","69993","Korea, Rep.","DNK","Denmark",2020,"Import",5,10.634
+"S4","KOR","69993","Korea, Rep.","DNK","Denmark",2021,"Import",5,20.358
+"S4","KOR","69993","Korea, Rep.","FIN","Finland",2021,"Import",5,21.893
+"S4","KOR","69993","Korea, Rep.","FRA","France",2015,"Import",5,51.628
+"S4","KOR","69993","Korea, Rep.","FRA","France",2016,"Import",5,23.017
+"S4","KOR","69993","Korea, Rep.","FRA","France",2017,"Import",5,47.093
+"S4","KOR","69993","Korea, Rep.","FRA","France",2018,"Import",5,95.673
+"S4","KOR","69993","Korea, Rep.","FRA","France",2019,"Import",5,113.258
+"S4","KOR","69993","Korea, Rep.","FRA","France",2020,"Import",5,141.346
+"S4","KOR","69993","Korea, Rep.","FRA","France",2021,"Import",5,131.922
+"S4","KOR","69993","Korea, Rep.","GBR","United Kingdom",2015,"Import",5,10.331
+"S4","KOR","69993","Korea, Rep.","GBR","United Kingdom",2016,"Import",5,11.755
+"S4","KOR","69993","Korea, Rep.","GBR","United Kingdom",2017,"Import",5,24.964
+"S4","KOR","69993","Korea, Rep.","GBR","United Kingdom",2018,"Import",5,6.985
+"S4","KOR","69993","Korea, Rep.","GBR","United Kingdom",2019,"Import",5,20.003
+"S4","KOR","69993","Korea, Rep.","GBR","United Kingdom",2020,"Import",5,8.708
+"S4","KOR","69993","Korea, Rep.","GBR","United Kingdom",2021,"Import",5,25.239
+"S4","KOR","69993","Korea, Rep.","GHA","Ghana",2019,"Import",5,0.061
+"S4","KOR","69993","Korea, Rep.","HKG","Hong Kong, China",2015,"Import",5,24.864
+"S4","KOR","69993","Korea, Rep.","HKG","Hong Kong, China",2016,"Import",5,1.718
+"S4","KOR","69993","Korea, Rep.","HKG","Hong Kong, China",2017,"Import",5,0.64
+"S4","KOR","69993","Korea, Rep.","HKG","Hong Kong, China",2018,"Import",5,5.175
+"S4","KOR","69993","Korea, Rep.","HKG","Hong Kong, China",2019,"Import",5,17.04
+"S4","KOR","69993","Korea, Rep.","HKG","Hong Kong, China",2020,"Import",5,45.408
+"S4","KOR","69993","Korea, Rep.","HKG","Hong Kong, China",2021,"Import",5,43.964
+"S4","KOR","69993","Korea, Rep.","IND","India",2019,"Import",5,0.465
+"S4","KOR","69993","Korea, Rep.","IND","India",2020,"Import",5,0.79
+"S4","KOR","69993","Korea, Rep.","ITA","Italy",2021,"Import",5,0.401
+"S4","KOR","69993","Korea, Rep.","JPN","Japan",2015,"Import",5,13025.664
+"S4","KOR","69993","Korea, Rep.","JPN","Japan",2016,"Import",5,13075.07
+"S4","KOR","69993","Korea, Rep.","JPN","Japan",2017,"Import",5,16388.204
+"S4","KOR","69993","Korea, Rep.","JPN","Japan",2018,"Import",5,22977.232
+"S4","KOR","69993","Korea, Rep.","JPN","Japan",2019,"Import",5,19281.564
+"S4","KOR","69993","Korea, Rep.","JPN","Japan",2020,"Import",5,20168.785
+"S4","KOR","69993","Korea, Rep.","JPN","Japan",2021,"Import",5,24261.138
+"S4","KOR","69993","Korea, Rep.","KAZ","Kazakhstan",2017,"Import",5,11.877
+"S4","KOR","69993","Korea, Rep.","KAZ","Kazakhstan",2018,"Import",5,6.366
+"S4","KOR","69993","Korea, Rep.","KAZ","Kazakhstan",2019,"Import",5,0.065
+"S4","KOR","69993","Korea, Rep.","KNA","St. Kitts and Nevis",2020,"Import",5,0.912
+"S4","KOR","69993","Korea, Rep.","LTU","Lithuania",2021,"Import",5,0.384
+"S4","KOR","69993","Korea, Rep.","MAC","Macao",2018,"Import",5,144
+"S4","KOR","69993","Korea, Rep.","NLD","Netherlands",2019,"Import",5,1.582
+"S4","KOR","69993","Korea, Rep.","NLD","Netherlands",2020,"Import",5,3.65
+"S4","KOR","69993","Korea, Rep.","NLD","Netherlands",2021,"Import",5,3.681
+"S4","KOR","69993","Korea, Rep.","OAS","Other Asia, nes",2015,"Import",5,202.903
+"S4","KOR","69993","Korea, Rep.","OAS","Other Asia, nes",2016,"Import",5,5
+"S4","KOR","69993","Korea, Rep.","OAS","Other Asia, nes",2017,"Import",5,136.816
+"S4","KOR","69993","Korea, Rep.","OAS","Other Asia, nes",2018,"Import",5,78.037
+"S4","KOR","69993","Korea, Rep.","OAS","Other Asia, nes",2019,"Import",5,142.339
+"S4","KOR","69993","Korea, Rep.","OAS","Other Asia, nes",2020,"Import",5,12.081
+"S4","KOR","69993","Korea, Rep.","OAS","Other Asia, nes",2021,"Import",5,3.051
+"S4","KOR","69993","Korea, Rep.","PHL","Philippines",2018,"Import",5,1.035
+"S4","KOR","69993","Korea, Rep.","PHL","Philippines",2020,"Import",5,0.029
+"S4","KOR","69993","Korea, Rep.","PHL","Philippines",2021,"Import",5,0.03
+"S4","KOR","69993","Korea, Rep.","SGP","Singapore",2015,"Import",5,55.58
+"S4","KOR","69993","Korea, Rep.","SGP","Singapore",2016,"Import",5,30
+"S4","KOR","69993","Korea, Rep.","SGP","Singapore",2018,"Import",5,19.341
+"S4","KOR","69993","Korea, Rep.","SGP","Singapore",2019,"Import",5,46.097
+"S4","KOR","69993","Korea, Rep.","SGP","Singapore",2020,"Import",5,61.648
+"S4","KOR","69993","Korea, Rep.","SGP","Singapore",2021,"Import",5,39.231
+"S4","KOR","69993","Korea, Rep.","USA","United States",2015,"Import",5,44519.076
+"S4","KOR","69993","Korea, Rep.","USA","United States",2016,"Import",5,28749.554
+"S4","KOR","69993","Korea, Rep.","USA","United States",2017,"Import",5,45514.368
+"S4","KOR","69993","Korea, Rep.","USA","United States",2018,"Import",5,42983.178
+"S4","KOR","69993","Korea, Rep.","USA","United States",2019,"Import",5,44248.474
+"S4","KOR","69993","Korea, Rep.","USA","United States",2020,"Import",5,38039.556
+"S4","KOR","69993","Korea, Rep.","USA","United States",2021,"Import",5,52957.734
+"S4","KOR","69993","Korea, Rep.","ZAR","Congo, Dem. Rep.",2016,"Import",5,0.014
